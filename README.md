@@ -1,4 +1,4 @@
-# Data Science from Scratch Notebooks
+# Mastering Python for Data Analysis
 This project aims at teaching you the Python for Data Analysis. It contains the example code and case studies. It is constitute the practical part of our book: Python for Data Analysis
 
 <img src="Copy of AIPUBLISHING_dsfswp_VN.png" width="200">
@@ -12,7 +12,7 @@ Simply open the Jupyter notebooks you are interested in:
 First, you will need to install git, if you don't have it already.
 Next, clone this repository by opening a terminal and typing the following commands:
 $ cd $HOME  # or any other development directory you prefer 
-$ git clone https://github.com/AISCIENCES/dsfs-python.git 
-$ cd dsfs-python 
-If you do not want to install git, you can instead download master.zip, unzip it, rename the resulting directory to dsfs-python and move it to your development directory.
+$ git clone https://github.com/AISCIENCES/mpda.git 
+$ cd mpda 
+If you do not want to install git, you can instead download master.zip, unzip it, rename the resulting directory to mpda-python and move it to your development directory.
 
