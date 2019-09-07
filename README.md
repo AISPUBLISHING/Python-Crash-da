@@ -1,4 +1,4 @@
-# Mastering Python for Data Analysis
+# PYTHON CRASH COURSE FOR DATA ANALYSIS
 This project aims at teaching you the Python for Data Analysis. It contains the example code and case studies. It is constitute the practical part of our book: Python for Data Analysis
 
 <img src="Copy of AIPUBLISHING_dsfswp_VN.png" width="200">
