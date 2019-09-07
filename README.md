@@ -1,7 +1,7 @@
 # PYTHON CRASH COURSE FOR DATA ANALYSIS
 This project aims at teaching you the Python for Data Analysis. It contains the example code and case studies. It is constitute the practical part of our book: Python for Data Analysis
 
-<img src="Copy of AIPUBLISHING_dsfswp_VN.png" width="200">
+<img src="AIPUBLISHING_lbpda_VN.jpg" width="200">
 
 Simply open the Jupyter notebooks you are interested in:
 * Option 1: Using jupyter.org's notebook viewer. Github.com's notebook viewer also works but it is slower and the math formulas are not displayed correctly.
